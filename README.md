@@ -2,7 +2,7 @@
 - Anubrata Mallik here,
 - 🔭 I’m currently working as an intern at FloCard
 - 🌱 I’m currently learning Android Studio using JetPackCompose
-- 📫 How to reach me: [linked](https://www.linkedin.com/in/anubrata-mallik-92a8ab195/)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/anubrata-mallik-92a8ab195/)
 - 😄 Pronouns: He/Him
 <!--
 **Anu-Mallik/Anu-Mallik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
