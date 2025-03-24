@@ -1,6 +1,6 @@
 ### Hi there 👋
 - Anubrata Mallik here,
-- 🔭 I’m currently working as an intern at FloCard
+- 🔭 Currently developing my skills
 - 🌱 I’m currently learning Android Studio using JetPackCompose
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/anubrata-mallik-92a8ab195/)
 - 😄 Pronouns: He/Him
